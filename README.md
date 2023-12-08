@@ -114,7 +114,7 @@ webSocket.broadcastTXT(valeur);
 
 } ```
 
-#Code pour le servo moteur
+# Code pour le servo moteur
 
 ``` #include <Arduino.h>
 
@@ -228,8 +228,6 @@ void setup() {
   webSocket.enableHeartbeat(15000, 3000, 2);
 
 }
-
-```
 void loop() {
 	webSocket.loop();
 }
