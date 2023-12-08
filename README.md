@@ -1,6 +1,7 @@
 # Remote-servo-motor
 
-``` /*
+``` 
+/*
  * WebSocketServer.ino
  *
  *  Created on: 22.05.2015
@@ -112,11 +113,13 @@ webSocket.broadcastTXT(valeur);
   //  webSocket.sendTXT(num, potVal);
 
 
-} ```
+} 
+```
 
 # Code pour le servo moteur
 
-``` #include <Arduino.h>
+``` 
+#include <Arduino.h>
 
 #include <ESP8266WiFi.h>
 #include <ESP8266WiFiMulti.h>
