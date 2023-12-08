@@ -1,5 +1,6 @@
-# Remote-servo-motor
+Un servo moteur controlé par un potentiemtre en passant sur un réseau wifi, le tout sur deux ESP8266.
 
+# Code pour le potentiometre
 ``` 
 /*
  * WebSocketServer.ino
